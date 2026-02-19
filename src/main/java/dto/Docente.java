@@ -1,6 +1,6 @@
 package dto;
 
-import javax.swing.*;
+import java.util.List;
 
 public class Docente {
     private String nombre;
